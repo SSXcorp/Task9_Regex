@@ -339,7 +339,7 @@ public class Main {
         System.out.println("New string2: " + newString);
 
         System.out.println("=============================================");
-        
+
 
     }
 
